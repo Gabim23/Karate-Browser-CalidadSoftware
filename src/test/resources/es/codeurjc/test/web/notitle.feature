@@ -1,4 +1,4 @@
-Feature: Submit message via UI
+Feature: Submit message via UI with no title
 
   Background:
     * configure driver = { type: 'chrome' }
