@@ -15,7 +15,7 @@ Feature: Wikipedia Search Functionality
     # Wait until the search input is visible
     When waitFor('input[name=search]')
     And delay(5000)
-    And input('input[name=search]', 'Rafae Nadal')
+    And input('input[name=search]', 'Rafael Nadal')
 
     # Wait until the submit button is clickable and click
     And waitFor("button[type='submit']")
