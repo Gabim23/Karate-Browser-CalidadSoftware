@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Roboto Avast';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto-Light.woff2') format('woff2'),
+        local('Roboto Light'),
+        local('Roboto-Light');
+}
+
+@font-face {
+    font-family: 'Roboto Avast';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto-Regular.woff2') format('woff2'),
+        local('Roboto Regular'),
+        local('Roboto-Regular');
+}
+
+@font-face {
+    font-family: 'Roboto Avast';
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto-Medium.woff2') format('woff2'),
+        local('Roboto Medium'),
+        local('Roboto-Medium');
+}
+
+@font-face {
+    font-family: 'Roboto Avast';
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto-Bold.woff2') format('woff2'),
+        local('Roboto Bold'),
+        local('Roboto-Bold');
+}
+
+@font-face {
+    font-family: 'Roboto Avast';
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src:
+        url('chrome-extension://__MSG_@@extension_id__/fonts/Roboto-Black.woff2') format('woff2'),
+        local('Roboto Black'),
+        local('Roboto-Black');
+}
